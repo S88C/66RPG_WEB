@@ -1,4 +1,4 @@
-# 66RPG
+# 66RPG_WEB
 橙光Web端自动化测试
 
 批量启动文件为run_suite.py
